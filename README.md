@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **ML/Deep Learning**
+- 🔭 I’m currently working on **I'm passionate about data science, where I leverage my skills to uncover insights and drive informed decisions. My journey in the world of data never ceases to amaze me, and I'm always eager to explore new challenges.I'm currently work on Machine learning, Deep Learning and Django**
 
-- 🌱 I’m currently learning **LLM/Transformers/react.js**
+- 🌱 I’m currently learning **I'm constantly learning and growing in the field of data science like LLM/Transformers**
+  
+- 👯 I’m looking to collaborate on **I'm open to collaboration on data-driven projects**
+
+- 💬 Ask me about **Anything related to data science and analytics**
 
 - 📫 How to reach me **fiazhasan4161@gmail.com**
 
